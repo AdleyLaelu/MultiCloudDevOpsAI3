@@ -7,12 +7,12 @@ This repository contains the implementation for Day 3 of the MultiCloud, DevOps 
 The Cloud App will be put on autopilot with DevOps CI/CD pipelines on AWS CodePipeline and deploy the source code changes
 
 ## Architecture
-Amazon Web Services
-Github Codespaces
-AWS CodePipeline
-AWS CodeBuild + CodeDeploy
-Docker
-Amazon Elastic Container Registry
+- Amazon Web Services
+- Github Codespaces
+- AWS CodePipeline
+- AWS CodeBuild + CodeDeploy
+- Docker and Kubernetes
+- Amazon Elastic Container Registry
 
 ## Key Features
 ✅Automated CI/CD Pipeline:
