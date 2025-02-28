@@ -10,7 +10,7 @@ The Cloud App will be put on autopilot with DevOps CI/CD pipelines on AWS CodePi
 Amazon Web Services
 Github Codespaces
 AWS CodePipeline
-AWS CodeBuild
+AWS CodeBuild + CodeDeploy
 Docker
 Amazon Elastic Container Registry
 
@@ -163,8 +163,9 @@ git push
 
 ![Capture d’écran 2025-02-28 103305](https://github.com/user-attachments/assets/ba8e7e06-a912-43e4-9486-11b2504ddf9f)
 
-# BUILD CONTENT
-![Capture d’écran 2025-02-28 103305](https://github.com/user-attachments/assets/ba64daa5-bebf-4312-8f42-fbd1fc6702f5)
+# CodeBuild Pipeline
+![Capture d’écran 2025-02-28 103409](https://github.com/user-attachments/assets/715035fd-74d4-4565-96a6-c5829dcde3eb)
 
-# DEPLOY CONTENT
+
+# CodeDeploy Pipeline
 ![Capture d’écran 2025-02-28 103455](https://github.com/user-attachments/assets/72478cf2-f3d6-4dd7-9fdf-7168ceeebc10)
