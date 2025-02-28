@@ -99,7 +99,8 @@ Access the IAM console > Roles.
 Look for the role created "cloudmartBuild" for CodeBuild.
 Add the permission **AmazonElasticContainerRegistryPublicFullAccess**.
 
-![Capture d’écran 2025-02-28 011318](https://github.com/user-attachments/assets/7a65db0d-ea4c-48b0-9071-74c2e606d74a)
+![Capture d’écran 2025-02-28 011318](https://github.com/user-attachments/assets/e20741e5-6779-45e4-b087-d7289a99f06d)
+
 
 
   ### Step 2: Configure AWS CodeBuild for Application Deployment
